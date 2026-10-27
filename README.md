@@ -4,33 +4,11 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%"/>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Language Stack
-<a href="https://github.com/Kresnik003?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kresnik003&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee8b0&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Live GitHub stats
-<a href="https://github.com/Kresnik003">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kresnik003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee8b0&icon_color=7ee8b0&text_color=c9d1d9" alt="GitHub stats"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-### 📌 Featured projects
-<p>
-  <a href="https://github.com/Kresnik003/schoolos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kresnik003&repo=schoolos&hide_border=true&bg_color=0d1117&title_color=7ee8b0&text_color=c9d1d9" alt="schoolos"/>
+<h3 align="center">📊 Live GitHub stats</h3>
+<p align="center">
+  <a href="https://github.com/Kresnik003">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kresnik003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee8b0&icon_color=7ee8b0&text_color=c9d1d9" alt="GitHub stats"/>
   </a>
-  <!-- Añade más repos duplicando el bloque y cambiando repo=NOMBRE -->
 </p>
 
 <p align="center">
